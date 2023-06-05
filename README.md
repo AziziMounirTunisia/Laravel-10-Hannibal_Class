@@ -2,6 +2,9 @@
 <h1 dir="auto" tabindex="-1">Hannibal_Class</h1>
 <h2 dir="auto" tabindex="-1">Laravel 10 Classified Ads Site | Breeze, Multi-Auth, Roles, Permissions, Guards... Work in Progress.</h2>
 <p>&nbsp;</p>
+    <p>Admin: <a> admin@site.com </a> Pass: 12345678</p>
+<p>Seller: <a> agent@site.com&nbsp;</a> Pass: 12345678</p>
+<p>User: <a > user@site.com&nbsp;</a> Pass: 12345678</p>
 <p><span style="text-decoration: underline;"><strong>Installation</strong>:</span></p>
 </div>
 <ol>
